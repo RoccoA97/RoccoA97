@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 💻 Some stats
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=RoccoA97&show_icons=true&theme=tokyonight&line_height=27">
