@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=RoccoA97&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RoccoA97&hide=Jupyter Notebook,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RoccoA97&hide=Jupyter Notebook,TeX,java,html&theme=tokyonight">
 </p>
 
 </details>
