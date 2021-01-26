@@ -4,6 +4,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RoccoA97)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RoccoA97&hide=Jupyter Notebook,TeX,java,html&theme=tokyonight" alt="Drawing" style="height: 150px">
 **RoccoA97/RoccoA97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=RoccoA97&show_icons=true&theme=tokyonight&line_height=27" alt="Drawing" style="height: 150px">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RoccoA97&hide=Jupyter Notebook,TeX,java,html&theme=tokyonight" alt="Drawing" style="height: 150px">
 </p>
 
 </details>
